@@ -1,3 +1,5 @@
+# Ekratos
+
 ## Equipment
 
 * AMD Ryzen 9 5950X
