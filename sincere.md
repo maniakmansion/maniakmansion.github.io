@@ -1,12 +1,12 @@
-## Equipment 2
+## Equipment of Slice of Life
 
-* Intel i7-6700k
-* Nvidia GeForce GTX 1080 Ti
+* Intel i9-9900K
+* AMD Radeon RX 6900 XT
 * Asus Z170 Pro Gaming
 * 32 GB Corsair Vengeance
 >
 * Creative Sound Blaster AE-9
-* Beyerdynamic DT 990 Pro Black Edition
+* Beyerdynamic DT 1990 Pro
 * Rode NT-1A
 >
 * Lian Li O11Dynamic XL (ROG Certified)
@@ -22,17 +22,9 @@
 ## Favorite Games
 > Ghost of Tsushima
 > 
-> Guild Wars 1+2, World of Warcraft
-> 
-> Jagged Alliance 2, Desperados 1+3
+> Guild Wars 2
 > 
 > DayZ, Hunt: Showdown
->  
-> Total War: Shogun 2, Anno 1800
-> 
-> theHunter Classic / Call of the Wild
-> 
-> Legacy of Kain: Soul Reaver, Broken Sword 1-5, Monkey Island
 
 
 ### Maniak Mansion
