@@ -1,38 +1,52 @@
 ## Equipment
 
-* Intel i7-6700k
-* Nvidia GeForce GTX 1080 Ti
-* Asus Z170 Pro Gaming
-* 32 GB Corsair Vengeance
+* AMD Ryzen 9 5950X
+* NVIDIA GeForce RTX 3090 Founders Edition
+* ASUS ROG Crosshair VIII Dark Hero
+* 64 GB Corsair Vengeance RGB PRO
+* be quiet Dark Power Pro 12 1200W
 >
-* Creative Sound Blaster AE-9
+* Behringer Xenyx Q802USB
 * Beyerdynamic DT 990 Pro Black Edition
-* Rode NT-1A
+* Rode NT-1-Kit
 >
 * Lian Li O11Dynamic XL (ROG Certified)
-* EK Custom Loop CPU/GPU (2x 360 Radiator)
-* 10 Noctua Cromax (NF-S12A)
+* EK-Quantum Power Kit D-RGB P360
+* EK Water Blocks EK-CoolStream PE 360
+* EK Water Blocks Quantum Line EK-Quantum Vector
+* 4 Corsair iCUE SP120 RGB PRO
 >
-* Dell S2721DGFA
+* Dell Alienware AW3821DW
 * Dell S2716DG
 * Corsair K95 RGB Platinum
-* Corsair Glaive RGB
+* Corsair MM800 RGB POLARIS
+* Logitech G502 Hero
+* Xbox One Controller
+* Logitech HD Pro C920
 
 
 ## Favorite Games
-> Ghost of Tsushima
+> Ark Survival Evolved
 > 
-> Guild Wars 1+2, World of Warcraft
+> Guild Wars 1
 > 
-> Jagged Alliance 2, Desperados 1+3
+> Titan Quest
 > 
-> DayZ, Hunt: Showdown
->  
-> Total War: Shogun 2, Anno 1800
+> Rome Total War 2
 > 
-> theHunter Classic / Call of the Wild
+> Uncharted
 > 
-> Legacy of Kain: Soul Reaver, Broken Sword 1-5, Monkey Island
+> God Of War
+> 
+> The Last of Us 1-2
+>
+> Path Of Exile
+>
+> Diablo 2
+>
+> GTA
+>
+> Red Dead Redemption 1-2
 
 
 ### Maniak Mansion
