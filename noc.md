@@ -1,3 +1,5 @@
+# thelastnoc
+
 ## Equipment
 
 * Intel i7-6700k
