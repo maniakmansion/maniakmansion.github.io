@@ -16,10 +16,14 @@
 >
 > Doki Doki Literature Club Plus!
 >
+> NEKOPARA - Catboys Paradise
+>
 > Boyfriend Dungeon
 > 
 > Adorable Witch
-> 
+>
+> Horny Sekai
+>
 > Hello Kitty Online
 >
 > Barby & Ken Adventures
