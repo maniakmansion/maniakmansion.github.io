@@ -2,20 +2,23 @@
 
 ## Equipment
 
-* Intel i7-6700k
-* Nvidia GeForce GTX 1080 Ti
-* Asus Z170 Pro Gaming
-* 32 GB Corsair Vengeance
+* Taschenrechner
 >
 * :P
 >
-* Lian Li O11Dynamic XL (ROG Certified)
+* Schuhkarton
 >
 * Dell S2721DGFA
 
 
 ## Favorite Games
 > Dream Daddy: A Dad Dating Simulator
+>
+> Doki Doki Literature Club Plus!
+>
+> Boyfriend Dungeon
+> 
+> Adorable Witch
 > 
 > Hello Kitty Online
 >
