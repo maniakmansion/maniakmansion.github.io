@@ -1,4 +1,6 @@
-## Equipment of Slice of Life
+# Slice of Life
+
+## Equipment
 
 * Intel i9-9900K
 * AMD Radeon RX 6900 XT
