@@ -2,31 +2,35 @@
 
 ## Equipment
 
-* Taschenrechner
+* Intel i7-8700k
+* Nvidia GeForce RTX 3070
+* MSI MPG Z390 Gaming Pro Carbon Ac
+* 16 GB G.Skill Aegis
 >
-* :P
+* Asus ROG Xonar Phoebus
+* Corsair Void Elite RGB Wireless
+* RaLeno M30
 >
-* Schuhkarton
->
+* 
 * Dell S2721DGFA
+* Logitech G213 Prodigy
+* Logitech G502
+
 
 
 ## Favorite Games
-> Dream Daddy: A Dad Dating Simulator
->
-> Doki Doki Literature Club Plus!
->
-> NEKOPARA - Catboys Paradise
->
-> Boyfriend Dungeon
+> Final Fantasy 7
 > 
-> Adorable Witch
->
-> Horny Sekai
->
-> Hello Kitty Online
->
-> Barby & Ken Adventures
+> The Elder Scrolls Online
+> 
+> Rainbow Six Siege
+> 
+> Destiny 1+2
+> 
+> Demon Souls / Dark Souls
+> 
+> Dream Daddy: A Dad Dating Simulator
+
 
 
 ### Maniak Mansion
