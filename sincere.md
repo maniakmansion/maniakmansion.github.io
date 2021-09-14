@@ -22,7 +22,6 @@
 * VR HP Reverb G2
 
 
-
 ## Favorite Games
 > Battlefield Reihe
 > 
