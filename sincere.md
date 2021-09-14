@@ -4,29 +4,53 @@
 
 * Intel i9-9900K
 * AMD Radeon RX 6900 XT
-* Asus Z170 Pro Gaming
+* Asus Maximus XI Hero
 * 32 GB Corsair Vengeance
+* Be Quiet! Straight Power 11 850W Platinum
+* Corsair H150i Pro
 >
 * Creative Sound Blaster AE-9
 * Beyerdynamic DT 1990 Pro
-* Rode NT-1A
+* HyperX Quadcast
+* Logitech Brio 4k
 >
-* Lian Li O11Dynamic XL (ROG Certified)
-* EK Custom Loop CPU/GPU (2x 360 Radiator)
-* 10 Noctua Cromax (NF-S12A)
->
-* Dell S2721DGFA
-* Dell S2716DG
-* Corsair K95 RGB Platinum
-* Corsair Glaive RGB
+* Samsung G7 32"
+* Acer Z35P
+* Razer Chroma V2
+* G502 lightning
+* Thrustmaster TS-XW Racer Sparco P310 Competition Mod
+* VR HP Reverb G2
+
 
 
 ## Favorite Games
-> Ghost of Tsushima
+> Battlefield Reihe
 > 
-> Guild Wars 2
+> Call of Duty Reihe
 > 
-> DayZ, Hunt: Showdown
+> Destiny 1+2
+> 
+> Hunt Showdown
+> 
+> Vermintide 2
+> 
+> Herr der Ringe MMO
+> 
+> Rainbow Six Siege
+> 
+> Warhammer Online
+> 
+> Command & Conquer
+> 
+> Hell let Loose
+> 
+> GTFO
+> 
+> The Last of Us 1+2
+> 
+> God of War
+> 
+> Xcom
 
 
 ### Maniak Mansion
