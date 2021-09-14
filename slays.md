@@ -11,7 +11,6 @@
 * Corsair Void Elite RGB Wireless
 * RaLeno M30
 >
-* 
 * Dell S2721DGFA
 * Logitech G213 Prodigy
 * Logitech G502
