@@ -1,6 +1,5 @@
 # Armiger
 
-
 ## Equipment
 
 * AMD Ryzen 5 3600
@@ -8,7 +7,6 @@
 * MB
 * 16 GB RAM G.Skill Trident Z Neo
 >
-
 
 
 ## Favorite Games
