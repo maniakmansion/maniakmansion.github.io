@@ -26,7 +26,7 @@
 > 
 > Ghost of Tsushima, Assassin's Creed Odyssey / (1+2)
 > 
-> Jagged Alliance 2, Desperados 1+3, Shadow Tactics, Metal Gar Solid
+> Jagged Alliance 2, Desperados 1+3, Shadow Tactics, Metal Gear Solid
 > 
 > DayZ, Hunt: Showdown, Call of Duty: Modern Warfare, Arma 3, Battlefield
 >  
