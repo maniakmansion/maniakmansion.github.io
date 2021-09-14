@@ -22,9 +22,9 @@
 
 
 ## Favorite Games
-> Ghost of Tsushima, Assassin's Creed Odyssey / (1+2)
-> 
 > Guild Wars 1+2, World of Warcraft
+> 
+> Ghost of Tsushima, Assassin's Creed Odyssey / (1+2)
 > 
 > Jagged Alliance 2, Desperados 1+3, Shadow Tactics, Metal Gar Solid
 > 
