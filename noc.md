@@ -22,19 +22,21 @@
 
 
 ## Favorite Games
-> Ghost of Tsushima
+> Ghost of Tsushima, Assassin's Creed Odyssey / (1+2)
 > 
 > Guild Wars 1+2, World of Warcraft
 > 
-> Jagged Alliance 2, Desperados 1+3
+> Jagged Alliance 2, Desperados 1+3, Shadow Tactics, Metal Gar Solid
 > 
-> DayZ, Hunt: Showdown
+> DayZ, Hunt: Showdown, Call of Duty: Modern Warfare, Arma 3, Battlefield
 >  
-> Total War: Shogun 2, Anno 1800
+> Total War: Shogun 2, Command & Conquer Generals, Anno 1800, Uplink
 > 
-> theHunter Classic / Call of the Wild
+> theHunter: Classic / Call of the Wild, Elite Dangerous, Assetto Corsa, Project Cars
 > 
-> Legacy of Kain: Soul Reaver, Broken Sword 1-5, Monkey Island
+> Legacy of Kain: Soul Reaver, Broken Sword 1-5, Prince of Persia, Monkey Island
+>
+> Perfect Dark, Goldeneye 64
 
 
 ### Maniak Mansion
